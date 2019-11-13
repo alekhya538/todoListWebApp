@@ -15,7 +15,7 @@ Backend setup:
 =============
 1. Import the supplied maven project to eclipse (todolist-springboot/)
 2. Right Click on SpringBootFullstackApplication.java and Run As – Java Application
-3. Open a browser and navigate to “http://localhost:8080/tasks. Check whether rest API is working
+3. Open a browser and navigate to “http://localhost:8080/tasks. Check whether rest API is working. A JSON object will be returned if working correctly.
 
 Frontend setup:
 ==============
